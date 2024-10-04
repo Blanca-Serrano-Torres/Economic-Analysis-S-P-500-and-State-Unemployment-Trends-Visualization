@@ -120,7 +120,7 @@ Let's dive into a deeper economic analysis providing a top list of most/lowest u
      economies are more affecetd by macroeconomic factors, such as inflation and the 
      higher cost of living, than central U.S. states.
 
-## Unemployment vs Labor Force Participation
+## Unemployment vs Labor Force Participation - California
 This graph shows California's unemployment and participation ratesover time:
 
    - Unemployment Trends: California's unemployment rate peaked around early 2020, 
@@ -129,6 +129,39 @@ This graph shows California's unemployment and participation ratesover time:
      unemployment soared. However, since mid-2020, unemployment has seen a sharp 
      decline, stabilizing around 4-5% by 2024.
    - Labor Force Participation: California's participation rate(percentage of wroking- 
-     age population actively employed or looking for work)  
+     age population actively employed or looking for work) has been slowly increasing 
+     since mid-2021, now fluctuating around 61-62%. The slow recovery in labor 
+     participation could indicate that some workers who left labor market during COVID- 
+     19 have not fully returned, or that workers are finding it difficult to re-enter 
+     the labor market.
+   - Insight: The divergence between declining unemployment and the relatively flat 
+     labor force participation rate suggests that while joblessness has decreased, many 
+     individuals may still be out of the workforce. This could mean that the decrease 
+     in unemployment is largely due to people exiting the labor market, rather than 
+     finding jobs.
 
+
+## Unemployment vs Participation Across States (Jan 2020 - Jul 2023)
+The series of graphs offers a state-by-state comparision of unemployment and participation rates:
+
+  - COVID-19 Impact: Most states show a dramatic spike in unemployment in early 2020, 
+    followed by a decline as economies reopened. The participation rates show that many 
+    states struggled to bring workers back into the labor market, with participation 
+    rates recovering more slowly or stabilizing at lower levels than pre-pandemic 
+    levels.
+  - States with Strong Recovery: States like Texas, Florida, and Utah have seen 
+    unemployment rates drop significantly after the initial COVID shock, and their 
+    participation rates have recovered or even supassed pre-pandemic levels. These 
+    states may have benefited from more resilient industries (e.g., tech, energy, and 
+    logistics) or a more flexible response to pandemic restrictions.
+  - States with Sluggish Recovery: New York, New Jersey, and Illinois show slower 
+    recovery patterns, with lower labor force participation and relatively higher 
+    unemployment compared to other states. These states may still be struggling with 
+    the lingering economic effects of the pandemic, such as reduced business activity 
+    in urban centers and slower recovery of key sectors like hospitality and retail.
+  - Regional Differences: Southern and Mildwestern states generally show stronger 
+    recoveries in both employment and participation, while Northeastern and Western 
+    states lag behind. This could be due to different economic structures, with 
+    southern and midwestern states relying more on industries that bounced back 
+    quicker, such as manufacturing, agriculture, and logistics.    
       
